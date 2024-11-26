@@ -5,3 +5,8 @@ local1
 local2
 local3
 local4
+
+test1
+test2
+test3
+test4
